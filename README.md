@@ -1,5 +1,6 @@
 <h1 align ="center">Neetcode-150</h1> 
-## 1. Arrays & Hashing 
+
+## 1.Arrays & Hashing 
 
 1. Contains Duplicate	[Solution]()
 2. Valid Anagram [Solution]()
@@ -11,7 +12,7 @@
 8. Encode And Decode Strings	 [Solution]()
 9. Longest Consecutive Sequence	 [Solution]()
 
-## 2. Two Pointers [Resources]
+## 2. Two Pointers
 
 1. Valid Palindrome [Solution]()
 2. Two Sum II Input Array Is Sorted [Solution]()
