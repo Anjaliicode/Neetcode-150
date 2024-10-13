@@ -52,4 +52,4 @@
  if len(num)==len(nums) it means there is no duplicate and if len not equal then it means there exist duplicate element. The time complexity of 
  this approach is O(n) due to the list-to-set conversion.
 
-   </details> 
+</details> 
