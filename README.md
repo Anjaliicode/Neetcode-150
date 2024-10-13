@@ -9,3 +9,9 @@
 
 1. Valid Palindrome [Solution]()
 2. Two Sum II Input Array Is Sorted [Solution]()
+
+## 3. Day 3
+
+1. Binary Search[solution]()
+2. Is Anagram[solution]()
+

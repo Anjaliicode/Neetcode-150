@@ -1,7 +1,6 @@
 1. ## Q-1: Contains Duplicate
    Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
-   <details>  
-   <summary>Solution</summary>  
+
    
    ## Approach 1:- BruteForce Approach
    
@@ -47,9 +46,7 @@
    ```
    **Time Complexity:** O(n)  
    **Space Complexity:** O(n)
-    ## Explanation: 
-   To reduce T(C), convert the list to a set because set only contains unique elements. After the conversion, check the length of both variable:
- if len(num)==len(nums) it means there is no duplicate and if len not equal then it means there exist duplicate element. The time complexity of 
- this approach is O(n) due to the list-to-set conversion.
+   ## Explanation: 
+      To reduce T(C), convert the list to a set because set only contains unique elements. After the conversion, check the length of both variable:if len(num)==len(nums) it means there is no duplicate and if len not equal then it means there exist duplicate element. The time complexity of this approach is O(n) due to the list-to-set conversion.
 
-</details> 
+

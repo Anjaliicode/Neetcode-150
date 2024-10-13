@@ -1,12 +1,7 @@
 1. ## ValidPalindrome
-
    Given a string s, return true if it is a palindrome, otherwise return false.
-
    A palindrome is a string that reads the same forward and backward. It is also case-insensitive and ignores all non-alphanumeric characters.
-   <details>
-     <summary>Solution</summary>
-
-     ## Approach 1:- Reverse String
+   ## Approach 1:- Reverse String
 
      ```python
        class Solution:
@@ -30,14 +25,5 @@
 
      ---
 
-     ## Approach 2:-
 
-     ```python
-
-     ```
-
-     **Time Complexity:-** O()  
-     **Space Complexity:-** O()
-
-      ## Explanation:
-    </details>
+    

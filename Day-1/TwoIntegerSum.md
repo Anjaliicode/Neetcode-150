@@ -2,8 +2,7 @@
    Given an array of integers nums and an integer target, return the indices i and j such that nums[i] + nums[j] == target and i != j.
    You may assume that every input has exactly one pair of indices i and j that satisfy the condition.
    Return the answer with the smaller index first.  
-   <details>  
-   <summary>Solution</summary>  
+ 
    
    ## Approach 1:- BruteForce Approach
    
@@ -51,5 +50,3 @@
      For each iteration, we store the value at index i in a variable num, and declare a second variable second_num which calculate second_num as target - num. Check if second_num exists in the 
      dictionary; if it does then return its index along with the index of num.
    
-   
-</details>
