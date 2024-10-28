@@ -9,7 +9,7 @@
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         slow=head
         fast=head
-        while fast!=None and fast.next!=None:
+        while fast!= None and fast.next!= None:
             slow=slow.next
             fast=fast.next.next
             if slow == fast:
@@ -25,6 +25,6 @@
     **Time Complexity:** O(n)
     **Space Complexity:** O(1)
     ## Explanation: 
-    first find the mid then comspare the mid with the target value which is given if mid == target then simple return mid but if target>mid then then start = mid+1and if target is less than mid then end=mid-1 
+    first find the mid then compare the mid with the target value which is given if mid == target then simple return mid but if target>mid then then start = mid+1and if target is less than mid then end=mid-1 
 
 

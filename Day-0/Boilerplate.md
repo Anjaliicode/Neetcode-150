@@ -1,7 +1,6 @@
 1. ## Q-1:
-<details>
- <summary>Solution</summary>
- ## Approach 1:-
+
+  ## Approach 1:-
 
    ```python
    ```
@@ -24,4 +23,4 @@
 
    ## Explanation:
 
-</details>
+

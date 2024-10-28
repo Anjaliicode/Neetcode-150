@@ -1,7 +1,7 @@
 1. ## Q-1: Binary Search
    Given the beginning of a singly linked list head, reverse the list, and return the new beginning of the list.
 
-    ## Approach 1:- Binary Search Approach
+    ## Approach 1:- 
    ``` python
    class Solution:
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
